@@ -30,15 +30,6 @@ I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Goog
 
 ---
 
-## 🚀 About Me
-
-- 👨‍💻 Software Engineer & Team Leader  
-- ⭐ Google Developer Expert (GDE) in Flutter & Dart  
-- 🧠 Passionate about clean architecture, scalable systems & performance optimization  
-- 📱 Building high-quality mobile applications used by thousands  
-- 🤝 Open to collaborations & impactful open-source work  
-
----
 
 ## 🛠 Tech Stack
 
