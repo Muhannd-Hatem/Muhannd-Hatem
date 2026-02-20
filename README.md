@@ -10,33 +10,93 @@ I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Goog
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Firebase](https://firebase.google.com/), [C++](https://www.cplusplus.com/), [Python](https://www.python.org/).
 - 📫 How to reach me:
+<h1 align="center">Hi 👋, I'm Muhannad Hatem</h1>
+<h3 align="center">Senior Flutter Engineer | Google Developer Expert (Flutter & Dart) | Tech Lead</h3>
 
-	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/tarekalabd?label=Follow%20me)](https://twitter.com/tarekalabd)
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd)
-  [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
-  [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://tarekalabd.com)
-  [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@YOUR_LINK">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-  
-### Some Projects
-- **TaskedIn Schooling** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod)) ([IOS](https://apps.apple.com/app/id1610527915))
-- **Sanad** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp)) ([IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495))
-- **Mega Books** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megabooks)) ([IOS](https://apps.apple.com/us/app/mega-books/id1596646061))
-- **Mega Trust Jobs** ([Android](https://play.google.com/store/apps/details?id=co.megatrust.jobs)) ([IOS](https://apps.apple.com/us/app/megatrust-jobs/id1547002894))
-- **Mega Trust Employees** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.employee))
-- **Elwaha Delivery** ([Android](https://play.google.com/store/apps/details?id=com.kaspr.elwahadelivery2&hl=en_US&gl=US))
+---
 
-### Github Stats
-[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
+## 🚀 About Me
 
-### Want to support?
- 
-Do you find my work to be of a value for you?
-You can support me, buy me a **Book**, or a **Coffee**.
+- 👨‍💻 Software Engineer & Team Leader  
+- ⭐ Google Developer Expert (GDE) in Flutter & Dart  
+- 🧠 Passionate about clean architecture, scalable systems & performance optimization  
+- 📱 Building high-quality mobile applications used by thousands  
+- 🤝 Open to collaborations & impactful open-source work  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarekalabd)
+---
 
+## 🛠 Tech Stack
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- 📚 **Taskedin Schooling**
+- 🏦 **Mega Trust Jobs**
+- 📦 **Mega Books**
+- 🚚 **Elwaha Delivery**
+- 🏢 **Mega Trust Employees**
+
+> High performance production apps serving real users.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 What I Believe In
+
+- Clean Code is not optional  
+- Architecture matters  
+- Performance is a feature  
+- Simplicity beats complexity  
+
+---
+
+## ☕ Support My Work
+
+If you find value in what I build, consider supporting:
+
+<a href="https://buymeacoffee.com/YOUR_LINK">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</a>
+
+---
+
+<h3 align="center">"Build with purpose. Ship with confidence."</h3>
 
 <!--
 **Muhannd-Hatem/Muhannd-Hatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
