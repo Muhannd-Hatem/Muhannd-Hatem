@@ -1,6 +1,6 @@
-## Hi there 👋
 
-### Hi there 👋
+# Hi there 👋
+
 
 I'm a software engineer team leader at [Mega Trust](https://megatrust.net), Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-tarek-alabd)) for Flutter & Dart, and Subject-Matter Expert at [Variiance](https://variiance.com).
 
@@ -88,6 +88,23 @@ If you find value in what I build, consider supporting:
 ---
 
 <h3 align="center">"Build with purpose. Ship with confidence."</h3>
+
+<h1 align="center">Hi 👋 I'm Muhannad Hatem</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Flutter+Engineer;Google+Developer+Expert+(Flutter+%26+Dart);Tech+Lead;Clean+Architecture+Advocate;Building+Scalable+Mobile+Apps" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Muhannad Hatem
+role: Senior Flutter Engineer & Tech Lead
+speciality: Flutter, Dart, Clean Architecture
+focus: Scalable apps & performance optimization
+mindset: Build smart. Ship fast. Scale right.
 
 <!--
 **Muhannd-Hatem/Muhannd-Hatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
