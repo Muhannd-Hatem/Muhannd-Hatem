@@ -1,41 +1,55 @@
-<h1 align="center">Hi 👋 I'm Muhannad Hatem</h1>
-<h3 align="center">Mobile App Developer | Flutter Enthusiast</h3>
+<h1 align="center">Muhannad Hatem</h1>
+<h3 align="center">Mobile App Developer • Flutter Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Builder;Clean+UI+Lover;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Flutter+Mobile+Developer;Building+Real+World+Apps;Clean+Architecture+Focused;Performance+Driven+UI" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 📱 Mobile App Developer focused on Flutter  
-- 🎯 Building responsive & clean UI applications  
-- 🔥 Passionate about performance and smooth user experience  
-- 📚 Currently improving my skills in mobile architecture  
-- 🤝 Open to collaboration on mobile projects  
+I build mobile applications using **Flutter** with focus on:
+
+- Scalable architecture  
+- Clean and maintainable code  
+- Smooth and responsive UI  
+- Real production-ready projects  
+
+Currently improving my expertise in mobile architecture patterns and backend integration.
 
 ---
 
-## 🛠 Tech Stack (Mobile Focused)
+## 🏗 Mobile Development Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
 </p>
 
+### Core Skills
+
+- Flutter UI & Responsive Design  
+- State Management (Provider / Cubit / Bloc basics)  
+- REST API Integration  
+- Firebase Authentication & Firestore  
+- Clean Architecture principles  
+- Version Control with Git  
+
 ---
 
-## 📱 What I Build
+## 📱 Project Approach
 
-- Responsive Mobile Apps  
-- Firebase Integrated Apps  
-- Clean UI Designs  
-- State Management Based Applications  
-- Scalable Flutter Projects  
+- Feature-based folder structure  
+- Separation of concerns  
+- Reusable components  
+- Performance optimization  
+- Structured state management  
+
+I don’t just build screens — I build structured applications.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -44,16 +58,16 @@
 
 ---
 
-## 🧠 Development Mindset
+## 🎯 Current Focus
 
-- Code should be clean  
-- UI should be smooth  
-- Apps should be scalable  
-- Learning never stops  
+- Mastering advanced state management  
+- Deep understanding of Clean Architecture  
+- Writing more testable Flutter code  
+- Contributing to real-world mobile projects  
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
@@ -66,4 +80,4 @@
 
 ---
 
-<h3 align="center">⚡ Building mobile apps with focus & consistency.</h3>
+<h3 align="center">Focused. Consistent. Building real mobile systems.</h3>
